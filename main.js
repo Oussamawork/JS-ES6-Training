@@ -27,4 +27,5 @@ featured.appendChild(CaptionElement);
 
 theimg.toggleAttribute("alt");
 
+
 console.log(featured);
